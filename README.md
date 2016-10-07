@@ -1,5 +1,5 @@
 # Malloc
-Recode of the fonction malloc (from stdlib.h)
+Recode of the fonction malloc (from stdlib.h), using the Allocation Algorithm
 
 To test it :
 
